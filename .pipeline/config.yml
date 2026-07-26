@@ -1,5 +1,6 @@
 general:
   productiveBranch: 'main'
+  buildTool: 'npm'
 steps:
   npmExecuteScripts:
     install: true
