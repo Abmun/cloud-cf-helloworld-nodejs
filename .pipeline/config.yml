@@ -1,0 +1,7 @@
+general:
+  productiveBranch: 'main'
+steps:
+  npmExecuteScripts:
+    install: true
+    runScripts:
+      - 'test'
